@@ -1,1 +1,1 @@
-# AWS-Blok-Page-Application-Capstone
+# AWS-Blok-Page-Application-Capstone-Project
