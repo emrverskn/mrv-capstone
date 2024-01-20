@@ -5,5 +5,3 @@ admin.site.register(Post)
 admin.site.register(Like)
 admin.site.register(PostView)
 admin.site.register(Comment)
-
-# Register your models here.
