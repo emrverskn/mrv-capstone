@@ -21,5 +21,5 @@ def lambda_handler(event, context):
             'timestamp': timestamp,
             'Event': event_name,
         })
-        
+    
     return "Lammda success"
