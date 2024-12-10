@@ -1,1 +1,1 @@
-# AWS-Blok-Page-Application-Capstone-Project
+# AWS-Blog-Page-Application-Capstone-Project
